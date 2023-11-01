@@ -1,0 +1,3 @@
+type TodoParams = {
+  todoId: string;
+};
